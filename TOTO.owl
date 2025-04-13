@@ -12,7 +12,7 @@
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://www.semanticweb.org/finnd/ontologies/2025/3/TOTO">
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/uberon.owl"/>
+        <owl:imports rdf:resource="https://github.com/Finn1928/Tissue-and-Organ-Transplant-Ontology-TOTO-/blob/main/Imports/TOTO_UBERONimport.xml"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/bfo/2020/bfo-core.owl"/>
     </owl:Ontology>
     
